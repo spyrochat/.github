@@ -158,7 +158,7 @@ That's it! Start connecting with friends, family, and colleagues instantly ✨
 
 </td>
 <td align="center" width="50%">
-<img src="[https://github.com/dconco.png](https://raw.githubusercontent.com/dconco/dconco/refs/heads/main/profile3.png)" width="150" height="150" style="border-radius: 50%; border: 4px solid #28a745;">
+<img src="https://raw.githubusercontent.com/dconco/dconco/refs/heads/main/profile3.png" width="150" height="150" style="border-radius: 50%; border: 4px solid #28a745;">
 
 ### ⚙️ **Backend Architect**
 **[@dconco](https://github.com/dconco)**
