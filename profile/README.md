@@ -128,7 +128,7 @@ That's it! Start connecting with friends, family, and colleagues instantly ✨
 
 </div>
 
-## 👨‍💻 Meet the Brilliant Minds Behind SpyroChat
+## 👨‍💻 Meet the Brilliant Minds Behind Spyrochat
 
 <div align="center">
 
@@ -188,7 +188,7 @@ That's it! Start connecting with friends, family, and colleagues instantly ✨
 ---
 
 ### 💡 **"Innovation is a team sport"**
-*— The SpyroChat Philosophy*
+*— The Spyrochat Philosophy*
 
 </div>
 
