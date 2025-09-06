@@ -7,7 +7,7 @@
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
 
-[✨ **Live Demo**](https://spyrochat.com) • [📖 **Documentation**](docs/) • [🐛 **Report Bug**](issues/) • [💡 **Request Feature**](issues/)
+[✨ **Visit Website**](https://spyrochat.com) • [🐛 **Report Bug**](issues/) • [💡 **Request Feature**](issues/)
 
 </div>
 
