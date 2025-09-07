@@ -275,7 +275,7 @@ This project is licensed under the MIT License - see the [LICENSE](https://githu
 
 **[♥️ Follow us on GitHub](https://github.com/spyrochat)** • **[🐛 Report Issues](https://github.com/spyrochat/main/issues)** • **[💡 Suggest Features](https://github.com/spyrochat/main/discussions)**
 
-*SpyroChat - Where conversations come alive* 🔥
+*Spyrochat - Where conversations come alive* 🔥
 
 **👨‍💻 Built by [@Peter-kent-19](https://github.com/Peter-kent-19) & [@dconco](https://github.com/dconco)**
 
