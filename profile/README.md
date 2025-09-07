@@ -277,6 +277,6 @@ This project is licensed under the MIT License - see the [LICENSE](https://githu
 
 *SpyroChat - Where conversations come alive* 🔥
 
-#### 👨‍💻 Built by [@Peter-kent-19](https://github.com/Peter-kent-19) & [@dconco](https://github.com/dconco)
+**👨‍💻 Built by [@Peter-kent-19](https://github.com/Peter-kent-19) & [@dconco](https://github.com/dconco)**
 
 </div>
