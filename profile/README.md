@@ -22,7 +22,7 @@ Spyrochat is a social messaging platform where you connect, share, and get rewar
 
 **💬 Chat & Connect** — Message friends, build communities, and stay close in real time.
 
-**💰 Wallet & Rewards** — Earn from your engagement from day one. No follower thresholds, no waiting periods — just complete basic verification and you're in.
+**💰 Wallet & Rewards** — Earn from your engagement from day one. No follower thresholds, no waiting periods - just complete basic verification and you're in.
 
 **🔒 Privacy First** — Your private messages are never scanned or monitored. End-to-end encryption is available, and what you say in private stays private.
 
@@ -30,7 +30,7 @@ Spyrochat is a social messaging platform where you connect, share, and get rewar
 
 **🛡️ Verified Trust** — A three-tier verification system keeps the platform safe and authentic, with increasing perks at each tier.
 
-**⏳ Content That Lasts** — Unlike platforms that delete stories after 24 hours, you control how long your content stays — up to forever on Tier 3.
+**⏳ Content That Lasts** — Unlike platforms that delete stories after 24 hours, you control how long your content stays, up to forever on Tier 3.
 
 ---
 
