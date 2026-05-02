@@ -66,7 +66,7 @@ UI/UX, responsive design, and interactive frontend experiences.
 
 </td>
 <td align="center" width="50%">
-<img src="https://raw.githubusercontent.com/dconco/dconco/refs/heads/main/profile3.png" width="120" height="120" style="border-radius: 50%;">
+<img src="https://raw.githubusercontent.com/dconco/dconco/refs/heads/main/public/profile3.png" width="120" height="120" style="border-radius: 50%;">
 
 ### ⚙️ **Backend**
 **[@dconco](https://github.com/dconco)**
