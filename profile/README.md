@@ -36,11 +36,11 @@ Spyrochat is a social messaging platform where you connect, share, and get rewar
 
 | Layer | Technology |
 |-------|-----------|
-| Backend | GoLang, PHP |
+| Backend | GoLang, FrankenPHP |
 | Database | Laravel (Eloquent ORM) |
 | Templating | Symfony (Twig) |
 | HTTP / SPA | PhpSPA |
-| Frontend | JavaScript, jQuery, CSS, Tailwind |
+| Frontend | JavaScript, jQuery, CSS, Tailwind, UnoCSS |
 | Real-time | Go (WebSockets, goroutines) |
 | Large Uploads | Go (streaming, compression) |
 
