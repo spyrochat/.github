@@ -53,17 +53,6 @@ Go handles the heavy lifting — WebSockets, large file uploads, video processin
 <table>
 <tr>
 <td align="center" width="50%">
-<img src="https://github.com/Peter-kent-19.png" width="120" height="120" style="border-radius: 50%;">
-
-### 🎨 **Frontend**
-**[@Peter-kent-19](https://github.com/Peter-kent-19)**
-
-UI/UX, responsive design, and interactive frontend experiences.
-
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Peter-kent-19)
-
-</td>
-<td align="center" width="50%">
 <img src="https://github.com/dconco.png" width="120" height="120" style="border-radius: 50%;">
 
 ### ⚙️ **Backend**
@@ -74,6 +63,17 @@ System architecture, real-time infrastructure, and backend engineering.
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dconco)
 
 </td>
+<td align="center" width="50%">
+<img src="https://github.com/Peter-kent-19.png" width="120" height="120" style="border-radius: 50%;">
+
+### 🎨 **Frontend**
+**[@Peter-kent-19](https://github.com/Peter-kent-19)**
+
+UI/UX, responsive design, and interactive frontend experiences.
+
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Peter-kent-19)
+
+</td>
 </tr>
 </table>
 
@@ -81,6 +81,6 @@ System architecture, real-time infrastructure, and backend engineering.
 
 <div align="center">
 
-**[spyrochat.org](https://spyrochat.org)** • Built by [@Peter-kent-19](https://github.com/Peter-kent-19) & [@dconco](https://github.com/dconco)
+**[spyrochat.org](https://spyrochat.org)** • Built by [@dconco](https://github.com/dconco) & [@Peter-kent-19](https://github.com/Peter-kent-19)
 
 </div>
